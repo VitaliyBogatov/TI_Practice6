@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ColorLamp.cs" />
+    <Compile Include="Garland.cs" />
+    <Compile Include="Lamp.cs" />
+    <Compile Include="MonochromeGarland.cs" />
+    <Compile Include="MulticolorGarland.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
